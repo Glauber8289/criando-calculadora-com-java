@@ -15,7 +15,7 @@
 	  double raiz1,raiz2;
 	  double pot;
 	  
-	  System.out.println("Ctd");
+	  
 	  
 	  String msg = "";
 	  //entrada de dados
